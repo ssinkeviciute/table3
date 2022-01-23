@@ -1,0 +1,29 @@
+
+table {
+    border-collapse: collapse;
+    width: 700px;
+    text-align: left;
+    font-family: monospace;
+    font-size: 200%;
+    border: 3px solid black;
+    
+}
+
+th {
+    width: 400px;
+    padding: 10px;
+    border: 1px  solid black;
+}
+
+#orange {
+    background-color: #fea500;
+    color: white;
+}
+#blue {
+    background-color: #4f4fff;
+    color: white;
+}
+#green {
+    background-color: #16c03b;
+    color: white;
+}
